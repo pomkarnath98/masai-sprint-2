@@ -14,7 +14,7 @@ If your counter lands at a ladder, your counter will move up to the number next 
 
 If your counter lands at a snake, your counter will move down to the number next to 'snake->' automatically.
 
-The first player to get to the space that says '100' is the winner.
+The first player to reach the space that says '100' is the winner.
 
 
 Have fun!
